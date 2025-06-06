@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /venv
-
+/client/node_modules
 /__pycache__
 # testing
 /coverage
